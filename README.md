@@ -1,6 +1,6 @@
 # PingPong
 
-O comando para que o cliente consiga mandar o ping é '** -p** '<br>
+O comando para que o cliente consiga mandar o ping é '**-p**'<br>
 Caso outro cliente queira utilizar, funcionará. Pois está com thread.
 
 Protocolo utilizado: **UDP** <br>
